@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+**/build/
+**/tmp/
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
+
+# Local configuration
+local.properties
+*.keystore
+*.jks
+keystore.properties
+
+# Android build outputs
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+
+# NDK/Native
+.externalNativeBuild/
+.cxx/
+
+# Logs and reports
+*.log
+*.hprof
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/tmp/
+
+# Misc
+captures/
+/.gradletasknamecache
+
+# Keep wrapper JAR
+!gradle/wrapper/gradle-wrapper.jar
