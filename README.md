@@ -58,4 +58,4 @@ All operations are local. The app only requests access to the folder you pick an
 
 ## License
 
-MIT (feel free to adapt for your own portfolio/demo use).
+This project is licensed under the MIT License. See [LICENSE](LICENSE#L1-L21) for details.
